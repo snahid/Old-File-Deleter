@@ -1,0 +1,10 @@
+C:\Users\nahid\source\repos\OldFileDelete\OldFileDelete\bin\Debug\OldFileDelete.exe.config
+C:\Users\nahid\source\repos\OldFileDelete\OldFileDelete\bin\Debug\OldFileDelete.exe
+C:\Users\nahid\source\repos\OldFileDelete\OldFileDelete\bin\Debug\OldFileDelete.pdb
+C:\Users\nahid\source\repos\OldFileDelete\OldFileDelete\obj\Debug\OldFileDelete.csprojAssemblyReference.cache
+C:\Users\nahid\source\repos\OldFileDelete\OldFileDelete\obj\Debug\OldFileDelete.Form1.resources
+C:\Users\nahid\source\repos\OldFileDelete\OldFileDelete\obj\Debug\OldFileDelete.Properties.Resources.resources
+C:\Users\nahid\source\repos\OldFileDelete\OldFileDelete\obj\Debug\OldFileDelete.csproj.GenerateResource.cache
+C:\Users\nahid\source\repos\OldFileDelete\OldFileDelete\obj\Debug\OldFileDelete.csproj.CoreCompileInputs.cache
+C:\Users\nahid\source\repos\OldFileDelete\OldFileDelete\obj\Debug\OldFileDelete.exe
+C:\Users\nahid\source\repos\OldFileDelete\OldFileDelete\obj\Debug\OldFileDelete.pdb

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldFileDelete", "OldFileDelete\OldFileDelete.csproj", "{FFADC8EF-5972-483A-B3A8-18AA6A804C03}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OldFileDeleter", "OldFileDeleter\OldFileDeleter.vdproj", "{669E1444-AF19-4B39-8676-80981CDFE6BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFADC8EF-5972-483A-B3A8-18AA6A804C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFADC8EF-5972-483A-B3A8-18AA6A804C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFADC8EF-5972-483A-B3A8-18AA6A804C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFADC8EF-5972-483A-B3A8-18AA6A804C03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{669E1444-AF19-4B39-8676-80981CDFE6BC}.Debug|Any CPU.ActiveCfg = Debug
+		{669E1444-AF19-4B39-8676-80981CDFE6BC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05EAF4DB-E1D7-4F5A-8261-7E3152762209}
+	EndGlobalSection
+EndGlobal
